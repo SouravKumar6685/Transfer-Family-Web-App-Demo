@@ -11,6 +11,8 @@ It provides an end-to-end flow for:
 - Ensuring fine-grained access control with S3 Access Grants
 - Enabling safe cross-origin resource sharing (CORS)
 
+![](https://i.postimg.cc/TPDC92PD/Image.webp)
+
 ---
 
 ## ✅ Why Use AWS Transfer Family Web App?
